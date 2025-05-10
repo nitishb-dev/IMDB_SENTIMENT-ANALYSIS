@@ -55,16 +55,6 @@ This implementation leverages deep learning techniques to capture the sequential
 
 ---
 
-## 🎯 Objective
-
-The primary goal of this project is to:
-- Demonstrate the application of LSTM in sentiment classification tasks
-- Learn and implement best practices in preprocessing textual data
-- Evaluate model performance using real-world data
-- Build a baseline for more advanced NLP experiments using RNNs and deep learning
-
----
-
 ## ✅ Applications
 
 - Product and movie review classification
